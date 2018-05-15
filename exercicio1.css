@@ -1,0 +1,41 @@
+@charset "UTF-8";
+#interface{
+    width: 900px;
+    box-shadow: 1px 1px 10px rgba(0,0,0,.5);
+    padding: 10px 10px 10px 10px;
+    
+
+}
+
+#interface p {
+    text-transform: uppercase;
+    color: white;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 1px;
+    font-weight: bolder;
+
+}
+#interface h1{
+    background-color: #cecece;
+    text-transform: uppercase;
+    text-align: center;
+}
+#resultado1{
+    background-color: black;
+    color: #cecece;
+    
+}
+#resultado2{
+    background-color: black;
+    color: #cecece;
+}
+#resultado3{
+    background-color: black;
+    color: #cecece;
+}
+#resultado4{
+    background-color: black;
+    color: #cecece;
+    
+}
